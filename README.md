@@ -1,2 +1,2 @@
 # YorubaOCR
-Yoruba Handwritten Recognition 
+Yoruba Handwritten Recognition with Deep Learning Tested using ResNet
