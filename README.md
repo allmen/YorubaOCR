@@ -1,0 +1,2 @@
+# YorubaOCR
+Yoruba Handwritten Recognition 
